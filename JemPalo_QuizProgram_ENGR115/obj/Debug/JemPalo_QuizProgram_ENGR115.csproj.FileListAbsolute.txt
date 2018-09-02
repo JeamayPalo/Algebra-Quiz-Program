@@ -1,0 +1,7 @@
+C:\Users\Jem Palo\source\repos\JemPalo_QuizProgram_ENGR115\JemPalo_QuizProgram_ENGR115\bin\Debug\JemPalo_QuizProgram_ENGR115.exe.config
+C:\Users\Jem Palo\source\repos\JemPalo_QuizProgram_ENGR115\JemPalo_QuizProgram_ENGR115\bin\Debug\JemPalo_QuizProgram_ENGR115.exe
+C:\Users\Jem Palo\source\repos\JemPalo_QuizProgram_ENGR115\JemPalo_QuizProgram_ENGR115\bin\Debug\JemPalo_QuizProgram_ENGR115.pdb
+C:\Users\Jem Palo\source\repos\JemPalo_QuizProgram_ENGR115\JemPalo_QuizProgram_ENGR115\obj\Debug\JemPalo_QuizProgram_ENGR115.csprojAssemblyReference.cache
+C:\Users\Jem Palo\source\repos\JemPalo_QuizProgram_ENGR115\JemPalo_QuizProgram_ENGR115\obj\Debug\JemPalo_QuizProgram_ENGR115.csproj.CoreCompileInputs.cache
+C:\Users\Jem Palo\source\repos\JemPalo_QuizProgram_ENGR115\JemPalo_QuizProgram_ENGR115\obj\Debug\JemPalo_QuizProgram_ENGR115.exe
+C:\Users\Jem Palo\source\repos\JemPalo_QuizProgram_ENGR115\JemPalo_QuizProgram_ENGR115\obj\Debug\JemPalo_QuizProgram_ENGR115.pdb
